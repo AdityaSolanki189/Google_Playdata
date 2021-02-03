@@ -1,99 +1,20 @@
-absl-py==0.11.0
-alabaster==0.7.12
-argh==0.26.2
-argon2-cffi==20.1.0
-asgiref==3.3.1
-asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
-astroid==2.4.1
-astropy==4.0.2
-astunparse==1.6.3
-async-generator==1.10
-atomicwrites==1.4.0
-attrs==19.3.0
-autopep8==1.5.4
-Babel @ file:///tmp/build/80754af9/babel_1605108370292/work
-backcall==0.2.0
-backports.functools-lru-cache==1.6.1
-backports.shutil-get-terminal-size==1.0.0
-backports.tempfile==1.0
-backports.weakref==1.0.post1
-bcrypt @ file:///C:/ci/bcrypt_1597936263757/work
-beautifulsoup4 @ file:///tmp/build/80754af9/beautifulsoup4_1601924105527/work
-bitarray @ file:///C:/ci/bitarray_1605065210072/work
-bkcharts==0.2
-bleach==3.1.5
-bokeh @ file:///C:/ci/bokeh_1603297934731/work
-boto==2.49.0
-Bottleneck==1.3.2
-brotlipy==0.7.0
-cachetools==4.2.0
-certifi==2020.6.20
-cffi==1.14.1
-chardet==3.0.4
-click==7.1.2
-cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
-clyent==1.2.2
-cmake==3.18.4.post1
-colorama==0.4.3
-comtypes==1.1.7
+
 conda==4.9.2
 conda-build==3.20.5
 conda-package-handling @ file:///C:/ci/conda-package-handling_1603003327818/work
 conda-verify==3.4.2
-contextlib2==0.6.0.post1
-cryptography @ file:///C:/ci/cryptography_1601046905460/work
-cvlib==0.2.6
-cycler==0.10.0
-Cython @ file:///C:/ci/cython_1594829190914/work
-cytoolz==0.11.0
-dask @ file:///tmp/build/80754af9/dask-core_1602083700509/work
+
 db.py==0.5.3
-decorator==4.4.2
-defusedxml==0.6.0
-diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
-distributed @ file:///C:/ci/distributed_1605066635297/work
+
 Django==3.1.6
 dlib==19.21.1
-docutils==0.16
-entrypoints==0.3
-et-xmlfile==1.0.1
-fastcache==1.1.0
-filelock==3.0.12
-flake8 @ file:///tmp/build/80754af9/flake8_1601911421857/work
 Flask==1.1.2
 Flask-SQLAlchemy==2.4.4
-flatbuffers==1.12
-fsspec @ file:///tmp/build/80754af9/fsspec_1602684995936/work
-future==0.18.2
-gast==0.3.3
-gevent @ file:///C:/ci/gevent_1601397627942/work
-glob2==0.7
 google-auth==1.24.0
 google-auth-oauthlib==0.4.2
 google-pasta==0.2.0
-greenlet @ file:///C:/ci/greenlet_1600885448389/work
-grpcio==1.32.0
 gunicorn==20.0.4
-h5py==2.10.0
-HeapDict==1.0.1
-html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
 imageio==2.9.0
-imagesize==1.2.0
-importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
-imutils==0.5.4
-iniconfig @ file:///tmp/build/80754af9/iniconfig_1602780191262/work
-intervaltree @ file:///tmp/build/80754af9/intervaltree_1598376443606/work
-ipykernel==5.3.4
-ipython==7.17.0
-ipython-genutils==0.2.0
-ipywidgets==7.5.1
-isort==4.3.21
-itsdangerous==1.1.0
-jdcal==1.4.1
-jedi==0.17.2
-Jinja2==2.11.2
-joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
 json5==0.9.5
 jsonschema==3.2.0
 jupyter==1.0.0
@@ -103,37 +24,10 @@ jupyter-core==4.6.3
 jupyterlab==2.2.6
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
 jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
-Keras==2.4.3
-Keras-Preprocessing==1.1.2
-keyring @ file:///C:/ci/keyring_1601489747083/work
-kiwisolver @ file:///C:/ci/kiwisolver_1604014703538/work
-lazy-object-proxy==1.4.3
-libarchive-c==2.9
-llvmlite==0.34.0
-locket==0.2.0
-lxml @ file:///C:/ci/lxml_1603216366346/work
-Markdown==3.3.3
-MarkupSafe==1.1.1
 matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
-mccabe==0.6.1
-menuinst==1.4.16
-mistune==0.8.4
-mkl-fft==1.2.0
-mkl-random==1.1.1
-mkl-service==2.3.0
-mock==4.0.2
-more-itertools @ file:///tmp/build/80754af9/more-itertools_1605111547926/work
 mpmath==1.1.0
 msgpack==1.0.0
 multipledispatch==0.6.0
-navigator-updater==0.2.1
-nbclient @ file:///tmp/build/80754af9/nbclient_1602783176460/work
-nbconvert==5.6.1
-nbformat==5.0.7
-nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1605115881283/work
-networkx @ file:///tmp/build/80754af9/networkx_1598376031484/work
-nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
-nose==1.3.7
 notebook==6.1.1
 numba==0.51.2
 numexpr==2.7.1
