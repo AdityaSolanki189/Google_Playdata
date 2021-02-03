@@ -1,32 +1,10 @@
-
-
-
+asgiref==3.3.1
+boto==2.49.0
 db.py==0.5.3
-
 Django==3.1.6
-dlib==19.21.1
-Flask==1.1.2
-Flask-SQLAlchemy==2.4.4
-google-auth==1.24.0
-google-auth-oauthlib==0.4.2
-google-pasta==0.2.0
+docutils==0.16
 gunicorn==20.0.4
-imageio==2.9.0
-json5==0.9.5
-matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
-mpmath==1.1.0
-msgpack==1.0.0
-multipledispatch==0.6.0
-notebook==6.1.1
-numba==0.51.2
-numexpr==2.7.1
-numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
-pandas @ file:///C:/ci/pandas_1602083338010/work
-pandocfilters==1.4.2
-Pillow @ file:///C:/ci/pillow_1603823068645/work
-seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
-SQLAlchemy @ file:///C:/ci/sqlalchemy_1603818908746/work
-sqlparse==0.4.
-Werkzeug==1.0.1
+python-dateutil==2.8.1
+pytz==2020.1
+sqlparse==0.4.1
 whitenoise==5.2.0
